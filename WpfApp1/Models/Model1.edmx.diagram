@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5271d08483bd4f43b898b01d9e4e7e31" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.dolzhnost" Width="1.5" PointX="3.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.pol" Width="1.5" PointX="0.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.role" Width="1.5" PointX="1.5" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.sysdiagrams" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.tip_zhilya" Width="1.5" PointX="6.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Авторизация" Width="1.5" PointX="3.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Договор" Width="1.5" PointX="8.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Допольнительние_услуги" Width="1.5" PointX="9" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Заявка" Width="1.5" PointX="11.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Клиент" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Недвижимость" Width="1.5" PointX="9" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Отчетности" Width="1.5" PointX="8.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Собственник" Width="1.5" PointX="6.75" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Сотрудник" Width="1.5" PointX="6" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Услуга" Width="1.5" PointX="6" PointY="2.625" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Сотрудник_dolzhnost" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Клиент_pol" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Сотрудник_pol1" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Авторизация_role" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Недвижимость_tip_zhilya" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Клиент_Авторизация" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Сотрудник_Авторизация" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Договор_Клиент" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Договор_Услуга" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Заявка_Допольнительние_услуги" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Заявка_Клиент" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Заявка_Недвижимость" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Заявка_Сотрудник" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Заявка_Услуга" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Недвижимость_Собственник" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Отчетности_Сотрудник1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

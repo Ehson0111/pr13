@@ -1,0 +1,86 @@
+﻿<Page x:Class="WpfApp1.Pages.Client"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Client" Background="White" IsVisibleChanged="Page_IsVisibleChanged">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="82*"/>
+            <ColumnDefinition Width="169*"/>
+            <ColumnDefinition Width="229*"/>
+            <ColumnDefinition Width="229*"/>
+            <ColumnDefinition Width="91*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="56"/>
+            <RowDefinition />
+            <RowDefinition Height="60*"/>
+        </Grid.RowDefinitions>
+
+        <TextBox Name="txtSearch" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="5,0,5,0" TextChanged="txtSearch_TextChanged" Grid.ColumnSpan="2"/>
+
+        <ComboBox   Name="cmbSorting" Grid.Row="1" Grid.Column="2" SelectedIndex="0" VerticalAlignment="Center" Margin="5,0,5,0" SelectionChanged="cmbSorting_SelectionChanged">
+            <ComboBoxItem>Без cортировки</ComboBoxItem>
+            <ComboBoxItem>Возрастиание</ComboBoxItem>
+            <ComboBoxItem>Убывание</ComboBoxItem>
+        </ComboBox>
+        <ComboBox Name="cmbFilter" Grid.Row="1" Grid.Column="3" SelectedIndex="0"  Margin="5,0,5,0" VerticalAlignment="Center" SelectionChanged="cmbFilter_SelectionChanged" >
+            <ComboBoxItem>Все</ComboBoxItem>
+            <ComboBoxItem>0-50 площадь</ComboBoxItem>
+            <ComboBoxItem>50-100 площадь</ComboBoxItem>
+        </ComboBox>
+        <ListView Name="LViewProduct" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="3" Margin="5,22,5,10" d:ItemsSource="{d:SampleData ItemCount=1}" SelectionChanged="LViewProduct_SelectionChanged">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" BorderThickness="1" Background="{Binding BackGround}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="200"/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="171"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Width="180" Height="100" Margin="10,5,10,5"/>
+                            <StackPanel Grid.Column="1" Margin="5,5,5,5">
+                                <TextBlock Text="{Binding Path=tip_zhilya.tip_zhilya1}" FontWeight="Bold" />
+                                <TextBlock>
+                                <Run Text="Общая площадь: "/>
+                                  <Run Text="{Binding Общая_площадь}"/>
+                                </TextBlock>
+
+                                <TextBlock>
+                                    <Run Text="Адресс: "/>
+                                     <Run Text="{Binding Адресс }"/>
+                                </TextBlock>
+
+                            </StackPanel>
+
+                            <TextBlock Grid.Column="2" HorizontalAlignment="Center" Margin="0,5,0,5" Width="146" VerticalAlignment="Center" >
+                                <Run Text="Цена:"/>
+                                <Run Text="{Binding Стоимость}"/>
+
+                            </TextBlock>
+
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="print" Content="Печать списка" Grid.Column="3" Margin="177,294,23,24" Grid.Row="3" Grid.ColumnSpan="2" Click="print_Click"/>
+
+        <Label x:Name="text1" Content="Label" HorizontalAlignment="Left" Margin="56,0,0,46" VerticalAlignment="Bottom"   Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblCount" Grid.Column="4" Content="Label" HorizontalAlignment="Left" Margin="24,0,0,0" Grid.Row="1" VerticalAlignment="Center"/>
+
+    </Grid>
+</Page>

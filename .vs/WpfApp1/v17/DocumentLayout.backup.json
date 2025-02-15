@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\sotrudnik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\sotrudnik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\sotrudnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\sotrudnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\client.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\client.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\editemployeeform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\editemployeeform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\autho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\autho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\models\\\u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\\u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekhso\\AppData\\Local\\Temp\\Rar$DIa23060.48150.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekhso\\AppData\\Local\\Temp\\Rar$DIa23060.47241.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|c:\\users\\ekhso\\desktop\\auth_wpf_-pr11\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\forgotpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\forgotpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\services\\sotrudnikvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\sotrudnikvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\services\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\services\\helpel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\helpel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\services\\capthchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\capthchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\forgotpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\forgotpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\services\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\wpfapp1\\pages\\editemployeeform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2348E4E9-D7F9-4921-897D-DE151DF62DEC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pages\\editemployeeform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autho.xaml",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Autho.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Autho.xaml",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Autho.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Autho.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:04:18.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CapthchaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\CapthchaGenerator.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\CapthchaGenerator.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\CapthchaGenerator.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\CapthchaGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:12:53.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.xaml",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Client.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Client.xaml",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Client.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Client.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:03:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sotrudnik.xaml",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Sotrudnik.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Sotrudnik.xaml",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Sotrudnik.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Sotrudnik.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T07:22:59.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sotrudnik.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Sotrudnik.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Sotrudnik.xaml.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Sotrudnik.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\Sotrudnik.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:00:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditEmployeeForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\EditEmployeeForm.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\EditEmployeeForm.xaml.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\EditEmployeeForm.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\EditEmployeeForm.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:45:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Client.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Client.xaml.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Client.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\Client.xaml.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAWwE8BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:57:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\App.config",
+              "RelativeDocumentMoniker": "WpfApp1\\App.config",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\App.config",
+              "RelativeToolTip": "WpfApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-28T05:57:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.edmx.diagram",
+              "RelativeToolTip": "WpfApp1\\Models\\Model1.edmx.diagram",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-15T08:17:43.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfApp1\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-15T08:17:03.436Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:34:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\AppData\\Local\\Temp\\Rar$DIa23060.47241.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\Rar$DIa23060.47241.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "ToolTip": "C:\\Users\\ekhso\\AppData\\Local\\Temp\\Rar$DIa23060.47241.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\Rar$DIa23060.47241.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:37:47.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\AppData\\Local\\Temp\\Rar$DIa23060.48150.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\Rar$DIa23060.48150.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "ToolTip": "C:\\Users\\ekhso\\AppData\\Local\\Temp\\Rar$DIa23060.48150.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\Rar$DIa23060.48150.rartemp\\\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:37:52.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:18:00.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autho.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Autho.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Autho.xaml.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\Autho.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\Autho.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:00:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-15T08:15:46.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "forgotpassword.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\forgotpassword.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\forgotpassword.xaml.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\forgotpassword.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\forgotpassword.xaml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwHoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:29:49.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\Hash.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\Hash.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\Hash.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\Hash.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:13:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "WpfApp1\\Models\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-15T08:18:01.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Helpel.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\Helpel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\Helpel.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\Helpel.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\Helpel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:16:07.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SotrudnikValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\SotrudnikValidator.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\SotrudnikValidator.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\SotrudnikValidator.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\SotrudnikValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:14:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SendMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\SendMessage.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\SendMessage.cs",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Services\\SendMessage.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\SendMessage.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:12:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "forgotpassword.xaml",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\forgotpassword.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\forgotpassword.xaml",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\forgotpassword.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\forgotpassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T06:26:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditEmployeeForm.xaml",
+              "DocumentMoniker": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\EditEmployeeForm.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\EditEmployeeForm.xaml",
+              "ToolTip": "C:\\Users\\ekhso\\Desktop\\auth_wpf_-pr11\\WpfApp1\\Pages\\EditEmployeeForm.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\EditEmployeeForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:08:49.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

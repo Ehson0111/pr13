@@ -1,0 +1,112 @@
+﻿<Page x:Class="WpfApp1.Pages.EditEmployeeForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EditEmployeeForm" Background="White">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Поле для имени -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Имя:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtFirstName" Text="{Binding Имя}" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Поле для фамилии -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Фамилия:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Фамилия}" x:Name="txtLastName" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Поле для отчества -->
+        <Label Grid.Row="2" Grid.Column="0" Content="Отчество:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Отчество}" x:Name="txtMiddleName" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Поле для контактных данных -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Контактные данные и email:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right" />
+
+        <Grid Grid.Row="3" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="195*"/>
+                <ColumnDefinition Width="191*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Row="0" Grid.Column="0" Text="{Binding Контактные_данные}"  x:Name="txtContactData" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" TextChanged="txtContactData_TextChanged"/>
+            <TextBox  Grid.Column="1" Text="{Binding email}" x:Name="txtemail"    BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Margin="5"/>
+
+        </Grid>
+        <!-- Поле для должности -->
+        <Label Grid.Row="4" Grid.Column="0" Content="Должность:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <ComboBox Grid.Row="4" Grid.Column="1"
+                  x:Name="cbDolzhnost"
+                  DisplayMemberPath="nazvanie"
+                  SelectedValuePath="id_dolzhnost"
+                  SelectedValue="{Binding id_dolzhnost}"
+                  Margin="5"
+                  BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Поле для логина и пароля -->
+        <Label Grid.Row="5" Grid.Column="0" Content="Логин и пароль:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <Grid Grid.Row="5" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="39*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="28*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Column="0" Text="{Binding Авторизация.login}" x:Name="txtLogin" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+            <TextBox Grid.Column="1"  Text="{Binding Авторизация.password}"  x:Name="pbPassword" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Grid.ColumnSpan="2"/>
+        </Grid>
+
+        <!-- Поле для зарплаты -->
+        <Label Grid.Row="6" Grid.Column="0" Content="Зарплата:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Зарплата}" x:Name="txtSalary" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Поле для даты рождения -->
+        <Label Grid.Row="7" Grid.Column="0" Content="Дата рождения:" VerticalAlignment="Bottom" Foreground="#FF1D869A" HorizontalAlignment="Right" Margin="135,0,0,9"/>
+        <DatePicker Grid.Row="7" Grid.Column="1" SelectedDate="{Binding Дата_рождение}" x:Name="dpBirthday" Margin="5" BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Поле для пола -->
+        <Label Grid.Row="8" Grid.Column="0" Content="Пол:" VerticalAlignment="Center" Foreground="#FF1D869A" HorizontalAlignment="Right"/>
+        <ComboBox Grid.Row="8" Grid.Column="1"
+                  x:Name="cbpol"
+                  DisplayMemberPath="pol1"
+                  SelectedValuePath="id_pol"
+                  SelectedValue="{Binding id_pol}"
+                  Margin="5"
+                  BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"/>
+
+        <!-- Изображение -->
+        <Image Grid.Row="0" Grid.RowSpan="3" Grid.Column="2" 
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Top"
+               Width="100" Height="100" 
+               Margin="0,5,0,0"
+               Source="/Resources/OIP.jpg"/>
+
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="9" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Button Content="Сохранить" Click="BtnSave_Click" Margin="5" Width="97" Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}" BorderBrush="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+            <Button x:Name="CLEAR" Click="CLEAR_Click" Content="Очистить" Margin="5" Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}" BorderBrush="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+        </StackPanel>
+
+        <!-- Кнопка добавления фото -->
+        <Button Grid.Column="2" HorizontalAlignment="Center" Content="Добавить фото"  Margin="10,3,0,0" Grid.Row="3" VerticalAlignment="Top" Background="#FFB0B0BF" BorderBrush="#FF3ADFFF" Height="30"/>
+    </Grid>
+</Page>
